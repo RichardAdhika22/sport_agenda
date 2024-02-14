@@ -1,0 +1,26 @@
+{"events": [
+    {
+        "endHour": 15,
+        "endMin": 0,
+        "month": 12,
+        "year": 2023,
+        "startHour": 12,
+        "name": "Japan Open 2023",
+        "rating": 9,
+        "type": "Badminton",
+        "startMin": 0,
+        "day": 12
+    },
+    {
+        "endHour": 16,
+        "endMin": 0,
+        "month": 7,
+        "year": 2024,
+        "startHour": 8,
+        "name": "World final",
+        "rating": 8,
+        "type": "Volleyball",
+        "startMin": 0,
+        "day": 3
+    }
+]}

@@ -1,0 +1,26 @@
+{
+  "events": [{
+  "endHour": 19,
+  "endMin": 0,
+  "month": 12,
+  "year": 2023,
+  "startHour": 14,
+  "name": "A",
+  "rating": 0,
+  "type": "badminton",
+  "startMin": 0,
+  "day": 12
+  },
+  {
+    "endHour": 8,
+    "endMin": 45,
+    "month": 10,
+    "year": 2023,
+    "startHour": 7,
+    "name": "B",
+    "rating": 5,
+    "type": "basketball",
+    "startMin": 15,
+    "day": 25
+  }]
+}

@@ -1,0 +1,26 @@
+{"events": [
+    {
+        "endHour": 15,
+        "endMin": 43,
+        "month": 8,
+        "year": 2030,
+        "startHour": 13,
+        "name": "A",
+        "rating": 0,
+        "type": "Swimming",
+        "startMin": 0,
+        "day": 27
+    },
+    {
+        "endHour": 15,
+        "endMin": 15,
+        "month": 8,
+        "year": 2020,
+        "startHour": 11,
+        "name": "B",
+        "rating": 4,
+        "type": "Boxing",
+        "startMin": 15,
+        "day": 20
+    }
+]}
